@@ -3,4 +3,4 @@ The goal of this challenge is to predict the sales price of different houses bas
 
 Current RSMLE: 0.18910 | # of Submissions: 1
 
-View the leaderboard ##[here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard)
+View the leaderboard [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard)
